@@ -118,10 +118,10 @@
       "README.md": "6b6c869848f734cc024991b5082d4ee0c8f6b5ec"
     },
     "README.md": {
-      "": "2d143eb8c9fa644658c05e803ead69ae322beec4"
+      "": "a5aac967486f9e58ab9b469804f437faac9ce3c0"
     },
     "stats.json": {
-      "": "54e53a9744966e122784630796a3c2291c9b3ecf"
+      "": "5e40726b465df03c31803d205cccea8c8c3e9078"
     },
     "palindrome-number": {
       "palindrome-number.py": "5478e9593d778abf788d037672346f54fe1397df",
@@ -142,8 +142,12 @@
     "roman-to-integer": {
       "roman-to-integer.py": "156cc6feaa094194a324d2a2f4378a9d14efe249",
       "README.md": "50545354a49065f81d4d7179f4bda2353357f59e"
+    },
+    "longest-common-prefix": {
+      "longest-common-prefix.py": "993c71684fec6948a3e21559ace5be577abc5b01",
+      "README.md": "b4b61a834471d8a3fdbd4660a01ffd11611acfb7"
     }
   },
-  "solved": 6,
+  "solved": 7,
   "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }

@@ -123,6 +123,7 @@ Automatically organized LeetCode solutions and progress.
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode #11 | [Python](./container-with-most-water/container-with-most-water.py) |
+| 2 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | LeetCode #14 | [Python](./longest-common-prefix/longest-common-prefix.py) |
 
 ## Dynamic Programming
 
@@ -165,6 +166,13 @@ Automatically organized LeetCode solutions and progress.
 | 2 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | LeetCode #10 | [Python](./regular-expression-matching/regular-expression-matching.py) |
 | 3 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | LeetCode #12 | [Python](./integer-to-roman/integer-to-roman.py) |
 | 4 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | LeetCode #13 | [Python](./roman-to-integer/roman-to-integer.py) |
+| 5 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | LeetCode #14 | [Python](./longest-common-prefix/longest-common-prefix.py) |
+
+## Trie
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | LeetCode #14 | [Python](./longest-common-prefix/longest-common-prefix.py) |
 
 ## Two Pointers
 
