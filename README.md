@@ -118,11 +118,23 @@ Automatically organized LeetCode solutions and progress.
 
 📌 Primary domains are selected using configured domain rules.
 
+## Array
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode #11 | [Python](./container-with-most-water/container-with-most-water.py) |
+
 ## Dynamic Programming
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | LeetCode #10 | [Python](./regular-expression-matching/regular-expression-matching.py) |
+
+## Greedy
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode #11 | [Python](./container-with-most-water/container-with-most-water.py) |
 
 ## Math
 
@@ -142,6 +154,12 @@ Automatically organized LeetCode solutions and progress.
 | :--- | :--- | :--- | :--- |
 | 1 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode #8 | [Python](./string-to-integer-atoi/string-to-integer-atoi.py) |
 | 2 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | LeetCode #10 | [Python](./regular-expression-matching/regular-expression-matching.py) |
+
+## Two Pointers
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode #11 | [Python](./container-with-most-water/container-with-most-water.py) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
