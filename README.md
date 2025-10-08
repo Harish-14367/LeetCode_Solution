@@ -1,5 +1,17 @@
 # LeetCode_Solution
 
+## Array
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./two-sum/two-sum.py) |
+
+## Hash Table
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./two-sum/two-sum.py) |
+
 ## String
 
 | # | Problem | Platform | Language |
