@@ -115,6 +115,7 @@ Automatically organized LeetCode solutions and progress.
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode #5 | [Python](./longest-palindromic-substring/longest-palindromic-substring.py) |
+| 2 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | LeetCode #6 | [Python](./zigzag-conversion/zigzag-conversion.py) |
 
 ## Two Pointers
 
