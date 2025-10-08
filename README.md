@@ -118,6 +118,12 @@ Automatically organized LeetCode solutions and progress.
 
 📌 Primary domains are selected using configured domain rules.
 
+## Math
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | LeetCode #9 | [Python](./palindrome-number/palindrome-number.py) |
+
 ## String
 
 | # | Problem | Platform | Language |

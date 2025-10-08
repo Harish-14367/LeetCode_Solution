@@ -118,12 +118,16 @@
       "README.md": "6b6c869848f734cc024991b5082d4ee0c8f6b5ec"
     },
     "README.md": {
-      "": "c4c53cd2ab5373d4503a798a0acfe199270a3a63"
+      "": "2b5ffbf8099a90571c7bec3fa8eedb922ee47356"
     },
     "stats.json": {
-      "": "25c0dc60c3114dd196bede6aef051fabb7a3ad0b"
+      "": "84124bc2e420c3d0b0df651a1e0e62c2fe19acc8"
+    },
+    "palindrome-number": {
+      "palindrome-number.py": "5478e9593d778abf788d037672346f54fe1397df",
+      "README.md": "8036a034da2d160e8cd4f38affd0f20cba720ef8"
     }
   },
-  "solved": 1,
+  "solved": 2,
   "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
