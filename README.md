@@ -157,18 +157,21 @@ Automatically organized LeetCode solutions and progress.
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode #15 | [Python](./3sum/3sum.py) |
+| 2 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode #16 | [Python](./3sum-closest/3sum-closest.py) |
 
 ## Sorting
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode #15 | [Python](./3sum/3sum.py) |
+| 2 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode #16 | [Python](./3sum-closest/3sum-closest.py) |
 
 ## Two Pointers
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode #15 | [Python](./3sum/3sum.py) |
+| 2 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode #16 | [Python](./3sum-closest/3sum-closest.py) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
