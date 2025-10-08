@@ -141,6 +141,7 @@ Automatically organized LeetCode solutions and progress.
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | LeetCode #12 | [Python](./integer-to-roman/integer-to-roman.py) |
+| 2 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | LeetCode #13 | [Python](./roman-to-integer/roman-to-integer.py) |
 
 ## Math
 
@@ -148,6 +149,7 @@ Automatically organized LeetCode solutions and progress.
 | :--- | :--- | :--- | :--- |
 | 1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | LeetCode #9 | [Python](./palindrome-number/palindrome-number.py) |
 | 2 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | LeetCode #12 | [Python](./integer-to-roman/integer-to-roman.py) |
+| 3 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | LeetCode #13 | [Python](./roman-to-integer/roman-to-integer.py) |
 
 ## Recursion
 
@@ -162,6 +164,7 @@ Automatically organized LeetCode solutions and progress.
 | 1 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode #8 | [Python](./string-to-integer-atoi/string-to-integer-atoi.py) |
 | 2 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | LeetCode #10 | [Python](./regular-expression-matching/regular-expression-matching.py) |
 | 3 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | LeetCode #12 | [Python](./integer-to-roman/integer-to-roman.py) |
+| 4 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | LeetCode #13 | [Python](./roman-to-integer/roman-to-integer.py) |
 
 ## Two Pointers
 
