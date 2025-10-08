@@ -98,5 +98,29 @@ Automatically organized LeetCode solutions and progress.
 | :--- | :--- | :--- | :--- |
 | 1 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode #4 | [Python](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.py) |
 
+## Dynamic Programming
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode #5 | [Python](./longest-palindromic-substring/longest-palindromic-substring.py) |
+
+## Manacher
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode #5 | [Python](./longest-palindromic-substring/longest-palindromic-substring.py) |
+
+## String
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode #5 | [Python](./longest-palindromic-substring/longest-palindromic-substring.py) |
+
+## Two Pointers
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode #5 | [Python](./longest-palindromic-substring/longest-palindromic-substring.py) |
+
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*

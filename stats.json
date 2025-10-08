@@ -65,12 +65,16 @@
       "README.md": "797f8851d18aaebd2f00207f5182892199e58786"
     },
     "README.md": {
-      "": "f957d2441b57564e70148a7fa51afde0bce7c4d9"
+      "": "f41e097fa83c43da274a0fca9b1c2cd091dec3e6"
     },
     "stats.json": {
-      "": "7c8fa0ba62e1b55715b945d1dd23eb3c5d8dcb27"
+      "": "eb53068e27d130c93de54cb3b693437c38901ce0"
+    },
+    "longest-palindromic-substring": {
+      "longest-palindromic-substring.py": "9a55ac038bf7c99b30c95217c1ea5043d4c22bf1",
+      "README.md": "b7c39596250d533ec55fce83a0bdd88d78ef7697"
     }
   },
-  "solved": 1,
+  "solved": 2,
   "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
