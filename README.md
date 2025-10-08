@@ -136,11 +136,18 @@ Automatically organized LeetCode solutions and progress.
 | :--- | :--- | :--- | :--- |
 | 1 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode #11 | [Python](./container-with-most-water/container-with-most-water.py) |
 
+## Hash Table
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | LeetCode #12 | [Python](./integer-to-roman/integer-to-roman.py) |
+
 ## Math
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | LeetCode #9 | [Python](./palindrome-number/palindrome-number.py) |
+| 2 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | LeetCode #12 | [Python](./integer-to-roman/integer-to-roman.py) |
 
 ## Recursion
 
@@ -154,6 +161,7 @@ Automatically organized LeetCode solutions and progress.
 | :--- | :--- | :--- | :--- |
 | 1 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode #8 | [Python](./string-to-integer-atoi/string-to-integer-atoi.py) |
 | 2 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | LeetCode #10 | [Python](./regular-expression-matching/regular-expression-matching.py) |
+| 3 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | LeetCode #12 | [Python](./integer-to-roman/integer-to-roman.py) |
 
 ## Two Pointers
 
