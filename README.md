@@ -118,17 +118,30 @@ Automatically organized LeetCode solutions and progress.
 
 📌 Primary domains are selected using configured domain rules.
 
+## Dynamic Programming
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | LeetCode #10 | [Python](./regular-expression-matching/regular-expression-matching.py) |
+
 ## Math
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | LeetCode #9 | [Python](./palindrome-number/palindrome-number.py) |
 
+## Recursion
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | LeetCode #10 | [Python](./regular-expression-matching/regular-expression-matching.py) |
+
 ## String
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode #8 | [Python](./string-to-integer-atoi/string-to-integer-atoi.py) |
+| 2 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | LeetCode #10 | [Python](./regular-expression-matching/regular-expression-matching.py) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
