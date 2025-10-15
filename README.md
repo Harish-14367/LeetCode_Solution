@@ -12,14 +12,6 @@ Automatically organized LeetCode solutions and progress.
 | ⚪ Unknown | 0 |
 | **Total Solved** | **17** |
 
-## 📚 Domain Summary
-
-| Domain | Problems |
-|---|---:|
-| Array | 5 |
-| Math | 3 |
-| String | 9 |
-
 ## 📋 Complete Problem List
 
 | # | Problem | LeetCode | Language | Difficulty | Domain |
@@ -41,6 +33,14 @@ Automatically organized LeetCode solutions and progress.
 | 15 | [3Sum](./Array/3sum) | [LeetCode #15](https://leetcode.com/problems/3sum/) | Python | Medium | Array |
 | 16 | [3Sum Closest](./Array/3sum-closest) | [LeetCode #16](https://leetcode.com/problems/3sum-closest/) | Python | Medium | Array |
 | 1108 | [Defanging an IP Address](./String/defanging-an-ip-address) | [LeetCode #1108](https://leetcode.com/problems/defanging-an-ip-address/) | Java | Easy | String |
+
+## 📚 Domain Summary
+
+| Domain | Problems |
+|---|---:|
+| Array | 5 |
+| Math | 3 |
+| String | 9 |
 
 ## 🗂️ Problems by Domain
 
@@ -160,8 +160,28 @@ Automatically organized LeetCode solutions and progress.
 |---:|---|---|---|
 | 5 | [Longest Palindromic Substring](./String/longest-palindromic-substring) | Python | Medium |
 
----
 
 🤖 Automatically updated using GitHub Actions.
 
 📌 Primary domains are selected using configured domain rules.
+
+## Array
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [4Sum](https://leetcode.com/problems/4sum/) | LeetCode #18 | [Python](./4sum/4sum.py) |
+
+## Sorting
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [4Sum](https://leetcode.com/problems/4sum/) | LeetCode #18 | [Python](./4sum/4sum.py) |
+
+## Two Pointers
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [4Sum](https://leetcode.com/problems/4sum/) | LeetCode #18 | [Python](./4sum/4sum.py) |
+
+---
+*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
