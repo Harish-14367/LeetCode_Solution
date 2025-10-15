@@ -12,14 +12,6 @@ Automatically organized LeetCode solutions and progress.
 | ⚪ Unknown | 0 |
 | **Total Solved** | **15** |
 
-## 📚 Domain Summary
-
-| Domain | Problems |
-|---|---:|
-| Array | 3 |
-| Math | 3 |
-| String | 9 |
-
 ## 📋 Complete Problem List
 
 | # | Problem | LeetCode | Language | Difficulty | Domain |
@@ -39,6 +31,14 @@ Automatically organized LeetCode solutions and progress.
 | 13 | [Roman to Integer](./String/roman-to-integer) | [LeetCode #13](https://leetcode.com/problems/roman-to-integer/) | Python | Easy | String |
 | 14 | [Longest Common Prefix](./String/longest-common-prefix) | [LeetCode #14](https://leetcode.com/problems/longest-common-prefix/) | Python | Easy | String |
 | 1108 | [Defanging an IP Address](./String/defanging-an-ip-address) | [LeetCode #1108](https://leetcode.com/problems/defanging-an-ip-address/) | Java | Easy | String |
+
+## 📚 Domain Summary
+
+| Domain | Problems |
+|---|---:|
+| Array | 3 |
+| Math | 3 |
+| String | 9 |
 
 ## 🗂️ Problems by Domain
 
@@ -147,8 +147,28 @@ Automatically organized LeetCode solutions and progress.
 |---:|---|---|---|
 | 5 | [Longest Palindromic Substring](./String/longest-palindromic-substring) | Python | Medium |
 
----
 
 🤖 Automatically updated using GitHub Actions.
 
 📌 Primary domains are selected using configured domain rules.
+
+## Array
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode #15 | [Python](./3sum/3sum.py) |
+
+## Sorting
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode #15 | [Python](./3sum/3sum.py) |
+
+## Two Pointers
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode #15 | [Python](./3sum/3sum.py) |
+
+---
+*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
