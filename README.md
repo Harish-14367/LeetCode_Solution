@@ -12,14 +12,6 @@ Automatically organized LeetCode solutions and progress.
 | ⚪ Unknown | 0 |
 | **Total Solved** | **8** |
 
-## 📚 Domain Summary
-
-| Domain | Problems |
-|---|---:|
-| Array | 2 |
-| Math | 2 |
-| String | 4 |
-
 ## 📋 Complete Problem List
 
 | # | Problem | LeetCode | Language | Difficulty | Domain |
@@ -32,6 +24,14 @@ Automatically organized LeetCode solutions and progress.
 | 6 | [Zigzag Conversion](./String/zigzag-conversion) | [LeetCode #6](https://leetcode.com/problems/zigzag-conversion/) | Python | Medium | String |
 | 7 | [Reverse Integer](./Math/reverse-integer) | [LeetCode #7](https://leetcode.com/problems/reverse-integer/) | Python | Medium | Math |
 | 1108 | [Defanging an IP Address](./String/defanging-an-ip-address) | [LeetCode #1108](https://leetcode.com/problems/defanging-an-ip-address/) | Java | Easy | String |
+
+## 📚 Domain Summary
+
+| Domain | Problems |
+|---|---:|
+| Array | 2 |
+| Math | 2 |
+| String | 4 |
 
 ## 🗂️ Problems by Domain
 
@@ -113,8 +113,16 @@ Automatically organized LeetCode solutions and progress.
 |---:|---|---|---|
 | 5 | [Longest Palindromic Substring](./String/longest-palindromic-substring) | Python | Medium |
 
----
 
 🤖 Automatically updated using GitHub Actions.
 
 📌 Primary domains are selected using configured domain rules.
+
+## String
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | LeetCode #8 | [Python](./string-to-integer-atoi/string-to-integer-atoi.py) |
+
+---
+*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
