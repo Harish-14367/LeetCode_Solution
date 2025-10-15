@@ -99,5 +99,19 @@
       "primaryDomain": "String",
       "folder": "String/defanging-an-ip-address"
     }
-  ]
+  ],
+  "shas": {
+    "reverse-integer": {
+      "reverse-integer.py": "f868a187ac2d512909e1570ccc3decaf36ba4ff5",
+      "README.md": "d00a4a10ce5544131ad487e4fbebf865241d8a11"
+    },
+    "README.md": {
+      "": "6fbe0d75f81302e9dd808247481badc844aee60f"
+    },
+    "stats.json": {
+      "": "f087c8af817d0bb41676473a2d03a7553ac9fa21"
+    }
+  },
+  "solved": 1,
+  "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }

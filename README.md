@@ -12,14 +12,6 @@ Automatically organized LeetCode solutions and progress.
 | ⚪ Unknown | 0 |
 | **Total Solved** | **7** |
 
-## 📚 Domain Summary
-
-| Domain | Problems |
-|---|---:|
-| Array | 2 |
-| Math | 1 |
-| String | 4 |
-
 ## 📋 Complete Problem List
 
 | # | Problem | LeetCode | Language | Difficulty | Domain |
@@ -31,6 +23,14 @@ Automatically organized LeetCode solutions and progress.
 | 5 | [Longest Palindromic Substring](./String/longest-palindromic-substring) | [LeetCode #5](https://leetcode.com/problems/longest-palindromic-substring/) | Python | Medium | String |
 | 6 | [Zigzag Conversion](./String/zigzag-conversion) | [LeetCode #6](https://leetcode.com/problems/zigzag-conversion/) | Python | Medium | String |
 | 1108 | [Defanging an IP Address](./String/defanging-an-ip-address) | [LeetCode #1108](https://leetcode.com/problems/defanging-an-ip-address/) | Java | Easy | String |
+
+## 📚 Domain Summary
+
+| Domain | Problems |
+|---|---:|
+| Array | 2 |
+| Math | 1 |
+| String | 4 |
 
 ## 🗂️ Problems by Domain
 
@@ -111,8 +111,16 @@ Automatically organized LeetCode solutions and progress.
 |---:|---|---|---|
 | 5 | [Longest Palindromic Substring](./String/longest-palindromic-substring) | Python | Medium |
 
----
 
 🤖 Automatically updated using GitHub Actions.
 
 📌 Primary domains are selected using configured domain rules.
+
+## Math
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | LeetCode #7 | [Python](./reverse-integer/reverse-integer.py) |
+
+---
+*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
