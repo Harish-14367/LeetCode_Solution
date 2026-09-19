@@ -1,7 +1,7 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "easy": 5,
-  "medium": 10,
+  "medium": 11,
   "hard": 2,
   "unknown": 0,
   "problems": [
@@ -222,6 +222,20 @@
       "folder": "Array/3sum-closest"
     },
     {
+      "number": 18,
+      "title": "4Sum",
+      "slug": "4sum",
+      "difficulty": "Medium",
+      "language": "Python",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "primaryDomain": "Array",
+      "folder": "Array/4sum"
+    },
+    {
       "number": 1108,
       "title": "Defanging an IP Address",
       "slug": "defanging-an-ip-address",
@@ -233,19 +247,5 @@
       "primaryDomain": "String",
       "folder": "String/defanging-an-ip-address"
     }
-  ],
-  "shas": {
-    "4sum": {
-      "4sum.py": "2cf5fd81d3515f1ab2ecd516efe13abded60f77b",
-      "README.md": "5477f2b47950441fd12ce481425334360a60ddff"
-    },
-    "README.md": {
-      "": "28bec2b29b27fb1b54ec9ba50716f87096ff54db"
-    },
-    "stats.json": {
-      "": "16bad2e7aca99c90512a4650a9626c32feee4755"
-    }
-  },
-  "solved": 1,
-  "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+  ]
 }
