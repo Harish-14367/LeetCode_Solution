@@ -1,7 +1,7 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "easy": 2,
-  "medium": 4,
+  "medium": 5,
   "hard": 1,
   "unknown": 0,
   "problems": [
@@ -88,6 +88,18 @@
       "folder": "String/zigzag-conversion"
     },
     {
+      "number": 7,
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "difficulty": "Medium",
+      "language": "Python",
+      "tags": [
+        "Math"
+      ],
+      "primaryDomain": "Math",
+      "folder": "Math/reverse-integer"
+    },
+    {
       "number": 1108,
       "title": "Defanging an IP Address",
       "slug": "defanging-an-ip-address",
@@ -99,19 +111,5 @@
       "primaryDomain": "String",
       "folder": "String/defanging-an-ip-address"
     }
-  ],
-  "shas": {
-    "reverse-integer": {
-      "reverse-integer.py": "f868a187ac2d512909e1570ccc3decaf36ba4ff5",
-      "README.md": "d00a4a10ce5544131ad487e4fbebf865241d8a11"
-    },
-    "README.md": {
-      "": "6fbe0d75f81302e9dd808247481badc844aee60f"
-    },
-    "stats.json": {
-      "": "f087c8af817d0bb41676473a2d03a7553ac9fa21"
-    }
-  },
-  "solved": 1,
-  "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+  ]
 }

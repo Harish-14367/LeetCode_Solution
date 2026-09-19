@@ -7,10 +7,18 @@ Automatically organized LeetCode solutions and progress.
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 2 |
-| 🟡 Medium | 4 |
+| 🟡 Medium | 5 |
 | 🔴 Hard | 1 |
 | ⚪ Unknown | 0 |
-| **Total Solved** | **7** |
+| **Total Solved** | **8** |
+
+## 📚 Domain Summary
+
+| Domain | Problems |
+|---|---:|
+| Array | 2 |
+| Math | 2 |
+| String | 4 |
 
 ## 📋 Complete Problem List
 
@@ -22,15 +30,8 @@ Automatically organized LeetCode solutions and progress.
 | 4 | [Median of Two Sorted Arrays](./Array/median-of-two-sorted-arrays) | [LeetCode #4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Python | Hard | Array |
 | 5 | [Longest Palindromic Substring](./String/longest-palindromic-substring) | [LeetCode #5](https://leetcode.com/problems/longest-palindromic-substring/) | Python | Medium | String |
 | 6 | [Zigzag Conversion](./String/zigzag-conversion) | [LeetCode #6](https://leetcode.com/problems/zigzag-conversion/) | Python | Medium | String |
+| 7 | [Reverse Integer](./Math/reverse-integer) | [LeetCode #7](https://leetcode.com/problems/reverse-integer/) | Python | Medium | Math |
 | 1108 | [Defanging an IP Address](./String/defanging-an-ip-address) | [LeetCode #1108](https://leetcode.com/problems/defanging-an-ip-address/) | Java | Easy | String |
-
-## 📚 Domain Summary
-
-| Domain | Problems |
-|---|---:|
-| Array | 2 |
-| Math | 1 |
-| String | 4 |
 
 ## 🗂️ Problems by Domain
 
@@ -74,6 +75,7 @@ Automatically organized LeetCode solutions and progress.
 | # | Problem | Language | Difficulty |
 |---:|---|---|---|
 | 2 | [Add Two Numbers](./Math/add-two-numbers) | Python | Medium |
+| 7 | [Reverse Integer](./Math/reverse-integer) | Python | Medium |
 
 ### Sliding Window
 
@@ -111,16 +113,8 @@ Automatically organized LeetCode solutions and progress.
 |---:|---|---|---|
 | 5 | [Longest Palindromic Substring](./String/longest-palindromic-substring) | Python | Medium |
 
+---
 
 🤖 Automatically updated using GitHub Actions.
 
 📌 Primary domains are selected using configured domain rules.
-
-## Math
-
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | LeetCode #7 | [Python](./reverse-integer/reverse-integer.py) |
-
----
-*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
