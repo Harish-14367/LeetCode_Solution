@@ -1,28 +1,62 @@
 {
-  "shas": {
-    "defanging-an-ip-address": {
-      "defanging-an-ip-address.java": "1e10ab66858b4e6a7f8cf9ea891dea5a2700b070",
-      "README.md": "1211626c17b26937734d1f3cd864528eee3e5c41"
+  "totalSolved": 4,
+  "easy": 2,
+  "medium": 2,
+  "hard": 0,
+  "unknown": 0,
+  "problems": [
+    {
+      "number": 1,
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "language": "Python",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "primaryDomain": "Array",
+      "folder": "Array/two-sum"
     },
-    "README.md": {
-      "": "179ebc89721a988c590b1a5e2e977f34bb19289d"
+    {
+      "number": 2,
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "language": "Python",
+      "tags": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "primaryDomain": "Math",
+      "folder": "Math/add-two-numbers"
     },
-    "stats.json": {
-      "": "88176b214a9bb110a55a0d78a87f0ebb827fc727"
+    {
+      "number": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "language": "Python",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "primaryDomain": "String",
+      "folder": "String/longest-substring-without-repeating-characters"
     },
-    "two-sum": {
-      "two-sum.py": "7e8ec4e5763f882fc76ba321c14cf073953e6b18",
-      "README.md": "36ca8eae98d3c52a162615c21c995890566a254e"
-    },
-    "add-two-numbers": {
-      "add-two-numbers.py": "e4b770aa87831fcba51eef4423a3b0fea7c759f9",
-      "README.md": "e055ebfad9dc0f9cc20aa9d9133859cb975c2395"
-    },
-    "longest-substring-without-repeating-characters": {
-      "longest-substring-without-repeating-characters.py": "3abd5faaa0a7b2144cb6dad765ab5b109e247bcc",
-      "README.md": "ac64a2c337f40e9cf0e4e75faeee3f03186ea831"
+    {
+      "number": 1108,
+      "title": "Defanging an IP Address",
+      "slug": "defanging-an-ip-address",
+      "difficulty": "Easy",
+      "language": "Java",
+      "tags": [
+        "String"
+      ],
+      "primaryDomain": "String",
+      "folder": "String/defanging-an-ip-address"
     }
-  },
-  "solved": 4,
-  "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+  ]
 }

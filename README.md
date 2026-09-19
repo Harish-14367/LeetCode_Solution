@@ -1,48 +1,82 @@
 # LeetCode_Solution
 
-## Array
+Automatically organized LeetCode solutions and progress.
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./two-sum/two-sum.py) |
+## 📊 Overall Progress
 
-## Hash Table
+| Difficulty | Solved |
+|---|---:|
+| 🟢 Easy | 2 |
+| 🟡 Medium | 2 |
+| 🔴 Hard | 0 |
+| ⚪ Unknown | 0 |
+| **Total Solved** | **4** |
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Python](./two-sum/two-sum.py) |
-| 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Python](./longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) |
+## 📚 Domain Summary
 
-## Linked List
+| Domain | Problems |
+|---|---:|
+| Array | 1 |
+| Math | 1 |
+| String | 2 |
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode #2 | [Python](./add-two-numbers/add-two-numbers.py) |
+## 📋 Complete Problem List
 
-## Math
+| # | Problem | LeetCode | Language | Difficulty | Domain |
+|---:|---|---|---|---|---|
+| 1 | [Two Sum](./Array/two-sum) | [LeetCode #1](https://leetcode.com/problems/two-sum/) | Python | Easy | Array |
+| 2 | [Add Two Numbers](./Math/add-two-numbers) | [LeetCode #2](https://leetcode.com/problems/add-two-numbers/) | Python | Medium | Math |
+| 3 | [Longest Substring Without Repeating Characters](./String/longest-substring-without-repeating-characters) | [LeetCode #3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Python | Medium | String |
+| 1108 | [Defanging an IP Address](./String/defanging-an-ip-address) | [LeetCode #1108](https://leetcode.com/problems/defanging-an-ip-address/) | Java | Easy | String |
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode #2 | [Python](./add-two-numbers/add-two-numbers.py) |
+## 🗂️ Problems by Domain
 
-## Recursion
+### Array
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode #2 | [Python](./add-two-numbers/add-two-numbers.py) |
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 1 | [Two Sum](./Array/two-sum) | Python | Easy |
 
-## Sliding Window
+### String
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Python](./longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) |
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](./String/longest-substring-without-repeating-characters) | Python | Medium |
+| 1108 | [Defanging an IP Address](./String/defanging-an-ip-address) | Java | Easy |
 
-## String
+### Hash Table
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | LeetCode #1205 | [Java](./defanging-an-ip-address/defanging-an-ip-address.java) |
-| 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [Python](./longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) |
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 1 | [Two Sum](./Array/two-sum) | Python | Easy |
+| 3 | [Longest Substring Without Repeating Characters](./String/longest-substring-without-repeating-characters) | Python | Medium |
+
+### Math
+
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 2 | [Add Two Numbers](./Math/add-two-numbers) | Python | Medium |
+
+### Sliding Window
+
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](./String/longest-substring-without-repeating-characters) | Python | Medium |
+
+### Linked List
+
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 2 | [Add Two Numbers](./Math/add-two-numbers) | Python | Medium |
+
+### Recursion
+
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 2 | [Add Two Numbers](./Math/add-two-numbers) | Python | Medium |
 
 ---
-*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
+
+🤖 Automatically updated using GitHub Actions.
+
+📌 Primary domains are selected using configured domain rules.
