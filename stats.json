@@ -1,7 +1,7 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "easy": 5,
-  "medium": 11,
+  "medium": 12,
   "hard": 2,
   "unknown": 0,
   "problems": [
@@ -236,6 +236,19 @@
       "folder": "Array/4sum"
     },
     {
+      "number": 19,
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "language": "Python",
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "primaryDomain": "Two Pointers",
+      "folder": "Two-Pointers/remove-nth-node-from-end-of-list"
+    },
+    {
       "number": 1108,
       "title": "Defanging an IP Address",
       "slug": "defanging-an-ip-address",
@@ -247,19 +260,5 @@
       "primaryDomain": "String",
       "folder": "String/defanging-an-ip-address"
     }
-  ],
-  "shas": {
-    "remove-nth-node-from-end-of-list": {
-      "remove-nth-node-from-end-of-list.py": "f32ef9a61dfeb31a8ebd30cf73547fbf011d615a",
-      "README.md": "725d5d29eda52dba3cbb60f4df07c90d91f35a75"
-    },
-    "README.md": {
-      "": "3833b09db185083091efe4af4981681b65d6cc14"
-    },
-    "stats.json": {
-      "": "8b2633f630f6e4c2fb6908073330f037f9d274a2"
-    }
-  },
-  "solved": 1,
-  "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+  ]
 }
