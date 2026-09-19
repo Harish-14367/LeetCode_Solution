@@ -1,8 +1,8 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 7,
   "easy": 2,
-  "medium": 2,
-  "hard": 0,
+  "medium": 4,
+  "hard": 1,
   "unknown": 0,
   "problems": [
     {
@@ -47,6 +47,47 @@
       "folder": "String/longest-substring-without-repeating-characters"
     },
     {
+      "number": 4,
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "language": "Python",
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "primaryDomain": "Array",
+      "folder": "Array/median-of-two-sorted-arrays"
+    },
+    {
+      "number": 5,
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "language": "Python",
+      "tags": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "primaryDomain": "String",
+      "folder": "String/longest-palindromic-substring"
+    },
+    {
+      "number": 6,
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "difficulty": "Medium",
+      "language": "Python",
+      "tags": [
+        "String"
+      ],
+      "primaryDomain": "String",
+      "folder": "String/zigzag-conversion"
+    },
+    {
       "number": 1108,
       "title": "Defanging an IP Address",
       "slug": "defanging-an-ip-address",
@@ -58,27 +99,5 @@
       "primaryDomain": "String",
       "folder": "String/defanging-an-ip-address"
     }
-  ],
-  "shas": {
-    "median-of-two-sorted-arrays": {
-      "median-of-two-sorted-arrays.py": "5a5b9e65e6301418e7665611f8d59ca67497f9ca",
-      "README.md": "797f8851d18aaebd2f00207f5182892199e58786"
-    },
-    "README.md": {
-      "": "3bbef9e8bc8acb8d7bd4375810ee1e121c2d264b"
-    },
-    "stats.json": {
-      "": "60429f2b62f7aac3909664357449a8a87b2b063c"
-    },
-    "longest-palindromic-substring": {
-      "longest-palindromic-substring.py": "9a55ac038bf7c99b30c95217c1ea5043d4c22bf1",
-      "README.md": "b7c39596250d533ec55fce83a0bdd88d78ef7697"
-    },
-    "zigzag-conversion": {
-      "zigzag-conversion.py": "0a4dc319fda230ed4526d19accfa3b696be453b9",
-      "README.md": "310647e30268bab630f9a0b805893c3a93d0bd35"
-    }
-  },
-  "solved": 3,
-  "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+  ]
 }
