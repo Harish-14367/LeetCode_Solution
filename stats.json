@@ -1,7 +1,7 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 17,
   "easy": 5,
-  "medium": 8,
+  "medium": 10,
   "hard": 2,
   "unknown": 0,
   "problems": [
@@ -194,6 +194,34 @@
       "folder": "String/longest-common-prefix"
     },
     {
+      "number": 15,
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "Medium",
+      "language": "Python",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "primaryDomain": "Array",
+      "folder": "Array/3sum"
+    },
+    {
+      "number": 16,
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "difficulty": "Medium",
+      "language": "Python",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "primaryDomain": "Array",
+      "folder": "Array/3sum-closest"
+    },
+    {
       "number": 1108,
       "title": "Defanging an IP Address",
       "slug": "defanging-an-ip-address",
@@ -205,23 +233,5 @@
       "primaryDomain": "String",
       "folder": "String/defanging-an-ip-address"
     }
-  ],
-  "shas": {
-    "3sum": {
-      "3sum.py": "e320029fd66e7898c2e1f970ac8beb34e7de8ff8",
-      "README.md": "f7da465cc1f02605e66fb4f7f6d12f1486ee2fb9"
-    },
-    "README.md": {
-      "": "6494ed0478d1dc4f7bd907d2d1bfefb56a5bcb02"
-    },
-    "stats.json": {
-      "": "02957fc743d76f5475d10a7393181884051d0a92"
-    },
-    "3sum-closest": {
-      "3sum-closest.py": "32e2c573fad9ed16994c4efdfffa52eff36a0ba6",
-      "README.md": "4cfae948d5c095950fac87529fc9d214a1af9015"
-    }
-  },
-  "solved": 2,
-  "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+  ]
 }

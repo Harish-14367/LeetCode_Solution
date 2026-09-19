@@ -7,10 +7,18 @@ Automatically organized LeetCode solutions and progress.
 | Difficulty | Solved |
 |---|---:|
 | 🟢 Easy | 5 |
-| 🟡 Medium | 8 |
+| 🟡 Medium | 10 |
 | 🔴 Hard | 2 |
 | ⚪ Unknown | 0 |
-| **Total Solved** | **15** |
+| **Total Solved** | **17** |
+
+## 📚 Domain Summary
+
+| Domain | Problems |
+|---|---:|
+| Array | 5 |
+| Math | 3 |
+| String | 9 |
 
 ## 📋 Complete Problem List
 
@@ -30,15 +38,9 @@ Automatically organized LeetCode solutions and progress.
 | 12 | [Integer to Roman](./String/integer-to-roman) | [LeetCode #12](https://leetcode.com/problems/integer-to-roman/) | Python | Medium | String |
 | 13 | [Roman to Integer](./String/roman-to-integer) | [LeetCode #13](https://leetcode.com/problems/roman-to-integer/) | Python | Easy | String |
 | 14 | [Longest Common Prefix](./String/longest-common-prefix) | [LeetCode #14](https://leetcode.com/problems/longest-common-prefix/) | Python | Easy | String |
+| 15 | [3Sum](./Array/3sum) | [LeetCode #15](https://leetcode.com/problems/3sum/) | Python | Medium | Array |
+| 16 | [3Sum Closest](./Array/3sum-closest) | [LeetCode #16](https://leetcode.com/problems/3sum-closest/) | Python | Medium | Array |
 | 1108 | [Defanging an IP Address](./String/defanging-an-ip-address) | [LeetCode #1108](https://leetcode.com/problems/defanging-an-ip-address/) | Java | Easy | String |
-
-## 📚 Domain Summary
-
-| Domain | Problems |
-|---|---:|
-| Array | 3 |
-| Math | 3 |
-| String | 9 |
 
 ## 🗂️ Problems by Domain
 
@@ -50,6 +52,8 @@ Automatically organized LeetCode solutions and progress.
 | 4 | [Median of Two Sorted Arrays](./Array/median-of-two-sorted-arrays) | Python | Hard |
 | 11 | [Container With Most Water](./Array/container-with-most-water) | Python | Medium |
 | 14 | [Longest Common Prefix](./String/longest-common-prefix) | Python | Easy |
+| 15 | [3Sum](./Array/3sum) | Python | Medium |
+| 16 | [3Sum Closest](./Array/3sum-closest) | Python | Medium |
 
 ### String
 
@@ -80,6 +84,8 @@ Automatically organized LeetCode solutions and progress.
 |---:|---|---|---|
 | 5 | [Longest Palindromic Substring](./String/longest-palindromic-substring) | Python | Medium |
 | 11 | [Container With Most Water](./Array/container-with-most-water) | Python | Medium |
+| 15 | [3Sum](./Array/3sum) | Python | Medium |
+| 16 | [3Sum Closest](./Array/3sum-closest) | Python | Medium |
 
 ### Binary Search
 
@@ -102,6 +108,13 @@ Automatically organized LeetCode solutions and progress.
 | # | Problem | Language | Difficulty |
 |---:|---|---|---|
 | 3 | [Longest Substring Without Repeating Characters](./String/longest-substring-without-repeating-characters) | Python | Medium |
+
+### Sorting
+
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 15 | [3Sum](./Array/3sum) | Python | Medium |
+| 16 | [3Sum Closest](./Array/3sum-closest) | Python | Medium |
 
 ### Linked List
 
@@ -147,31 +160,8 @@ Automatically organized LeetCode solutions and progress.
 |---:|---|---|---|
 | 5 | [Longest Palindromic Substring](./String/longest-palindromic-substring) | Python | Medium |
 
+---
 
 🤖 Automatically updated using GitHub Actions.
 
 📌 Primary domains are selected using configured domain rules.
-
-## Array
-
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode #15 | [Python](./3sum/3sum.py) |
-| 2 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode #16 | [Python](./3sum-closest/3sum-closest.py) |
-
-## Sorting
-
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode #15 | [Python](./3sum/3sum.py) |
-| 2 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode #16 | [Python](./3sum-closest/3sum-closest.py) |
-
-## Two Pointers
-
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode #15 | [Python](./3sum/3sum.py) |
-| 2 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode #16 | [Python](./3sum-closest/3sum-closest.py) |
-
----
-*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
